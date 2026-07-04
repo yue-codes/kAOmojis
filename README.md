@@ -95,6 +95,12 @@ No hace falta tocar `main.py` ni reiniciar nada más que la app.
   especiales del compositor).
 - Persistencia de estado entre sesiones (última categoría, posición de
   ventana).
+- Android (muy a futuro): no como port de esta app (Qt no puede registrarse
+  como teclado del sistema), sino como un IME nativo aparte
+  (`InputMethodService`, Kotlin/Java) que reutilice los datos de
+  `kaomojis.json`. Alternativa mucho más simple mientras tanto: cargar los
+  kaomojis como atajos en el diccionario personal de Android/Gboard vía
+  `adb` (sin escribir ninguna app).
 
 ## Licencia
 
