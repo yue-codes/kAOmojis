@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-Koemojis: a minimalist, keyboard-first kaomoji picker desktop app. Opens as a
+kAOmojis: a minimalist, keyboard-first kaomoji picker desktop app. Opens as a
 small frameless floating window, lets the user filter kaomojis by typing,
 select one with arrow keys or a click, and copies it to the clipboard while
 closing the app.

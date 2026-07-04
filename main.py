@@ -1,5 +1,5 @@
 """
-Koemojis - Selector de Kaomojis
+kAOmojis - Selector de Kaomojis
 ================================
 
 Aplicacion de escritorio minimalista para buscar y copiar kaomojis

@@ -1,8 +1,15 @@
-# Koemojis — Selector de Kaomojis
+# kAOmojis
 
 Selector de kaomojis minimalista, pensado para usarse casi enteramente con
 el teclado, con soporte real de portapapeles en Linux (X11 y Wayland:
 Hyprland, KDE) y en Windows.
+
+## Por qué existe esto
+
+kAOmojis nació de la pura desesperación. Busqué un selector de kaomojis
+decente para mi escritorio — rápido, minimalista, que funcionara igual de
+bien en Wayland que en Windows — y no encontré ni uno solo que sirviera.
+Así que tuve que dibujar mi propio Aon. ¯\_(ツ)\_/¯
 
 ## Decisiones de arquitectura (por qué esta stack)
 
@@ -73,7 +80,7 @@ Editar `kaomojis.json`. Cada categoría es una lista de objetos con esta
 forma:
 
 ```json
-{"kaomoji": "(^_^)", "tags": ["feliz", "sonrisa"]}
+{ "kaomoji": "(^_^)", "tags": ["feliz", "sonrisa"] }
 ```
 
 No hace falta tocar `main.py` ni reiniciar nada más que la app.
