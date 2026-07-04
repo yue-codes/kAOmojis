@@ -1,0 +1,50 @@
+{
+  "Felices": [
+    {"kaomoji": "(^_^)", "tags": ["feliz", "sonrisa", "contento", "normal"]},
+    {"kaomoji": "(^▽^)", "tags": ["feliz", "sonrisa", "alegre"]},
+    {"kaomoji": "\\(^o^)/", "tags": ["feliz", "celebrar", "yay", "brazos arriba"]},
+    {"kaomoji": "(≧▽≦)", "tags": ["feliz", "emocionado", "radiante"]},
+    {"kaomoji": "ヽ(´▽`)/", "tags": ["feliz", "celebrar", "alegre"]},
+    {"kaomoji": "(*^▽^*)", "tags": ["feliz", "timido", "sonrisa"]},
+    {"kaomoji": "٩(◕‿◕)۶", "tags": ["feliz", "contento", "tierno"]},
+    {"kaomoji": "(☆▽☆)", "tags": ["feliz", "emocionado", "brillante", "ojos"]},
+    {"kaomoji": "(◕‿◕)", "tags": ["feliz", "contento", "tierno", "amable"]},
+    {"kaomoji": "ヽ(・∀・)ノ", "tags": ["feliz", "alegre", "celebrar"]},
+    {"kaomoji": "(^///^)", "tags": ["feliz", "timido", "sonrojado", "vergüenza"]},
+    {"kaomoji": "(づ˘꒳˘)づ", "tags": ["feliz", "abrazo", "tierno", "cariño"]},
+    {"kaomoji": "(*≧ω≦*)", "tags": ["feliz", "emocionado", "adorable"]},
+    {"kaomoji": "\\(≧∇≦)/", "tags": ["feliz", "celebrar", "super feliz", "exito"]}
+  ],
+  "Enojados": [
+    {"kaomoji": "(╬ﾟдﾟ)", "tags": ["enojado", "furioso", "molesto"]},
+    {"kaomoji": "ヽ(`Д´)ノ", "tags": ["enojado", "furioso", "gritar"]},
+    {"kaomoji": "(ಠ_ಠ)", "tags": ["enojado", "desaprobacion", "mirada seria"]},
+    {"kaomoji": "(# ﾟДﾟ)", "tags": ["enojado", "molesto", "irritado"]},
+    {"kaomoji": "(╯°□°）╯︵ ┻━┻", "tags": ["enojado", "mesa", "voltear mesa", "rabia", "frustrado"]},
+    {"kaomoji": "ヽ(`⌒´メ)ノ", "tags": ["enojado", "furioso"]},
+    {"kaomoji": "o(≧口≦)o", "tags": ["enojado", "gritar", "molesto"]},
+    {"kaomoji": "Ψ(`◇´)Ψ", "tags": ["enojado", "malvado", "furioso"]},
+    {"kaomoji": "(ノಠ益ಠ)ノ彡┻━┻", "tags": ["enojado", "mesa", "voltear mesa", "furioso", "rabia"]},
+    {"kaomoji": "눈_눈", "tags": ["enojado", "fastidiado", "hastiado", "molesto"]},
+    {"kaomoji": "(=`ェ´=)", "tags": ["enojado", "gato", "gruñon"]},
+    {"kaomoji": "ヽ(`皿´)ノ", "tags": ["enojado", "furioso", "gritar"]},
+    {"kaomoji": "(ノ-_-)ノ~┻━┻", "tags": ["enojado", "mesa", "voltear mesa", "cansado"]},
+    {"kaomoji": "(>_<)", "tags": ["enojado", "frustrado", "apretado", "esfuerzo"]}
+  ],
+  "Clásicos": [
+    {"kaomoji": "¯\\_(ツ)_/¯", "tags": ["encogerse de hombros", "no se", "shrug", "no importa", "indiferente"]},
+    {"kaomoji": "(☞ﾟヮﾟ)☞", "tags": ["clasico", "apuntar", "cool"]},
+    {"kaomoji": "☜(ﾟヮﾟ☜)", "tags": ["clasico", "apuntar", "cool"]},
+    {"kaomoji": "( ͡° ͜ʖ ͡°)", "tags": ["clasico", "lenny", "picaro"]},
+    {"kaomoji": "(¬‿¬)", "tags": ["clasico", "complice", "picaro", "guiño"]},
+    {"kaomoji": "(づ｡◕‿‿◕｡)づ", "tags": ["clasico", "abrazo", "tierno"]},
+    {"kaomoji": "(ノ°ο°)ノ", "tags": ["clasico", "sorpresa", "emocionado"]},
+    {"kaomoji": "└(^o^)┘", "tags": ["clasico", "celebrar", "despreocupado"]},
+    {"kaomoji": "(⌐■_■)", "tags": ["clasico", "cool", "lentes", "deal with it"]},
+    {"kaomoji": "( ° ᴗ°)~", "tags": ["clasico", "saludo", "casual"]},
+    {"kaomoji": "(☉_☉)", "tags": ["clasico", "sorpresa", "ojos grandes"]},
+    {"kaomoji": "¯\\(°_o)/¯", "tags": ["clasico", "no se", "confundido", "shrug"]},
+    {"kaomoji": "(>‿◠)✌", "tags": ["clasico", "guiño", "paz"]},
+    {"kaomoji": "(☯‿☯)", "tags": ["clasico", "equilibrio", "zen"]}
+  ]
+}
