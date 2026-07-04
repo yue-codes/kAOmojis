@@ -95,3 +95,7 @@ No hace falta tocar `main.py` ni reiniciar nada más que la app.
   especiales del compositor).
 - Persistencia de estado entre sesiones (última categoría, posición de
   ventana).
+
+## Licencia
+
+MIT — ver [LICENSE](LICENSE).
